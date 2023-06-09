@@ -1,0 +1,137 @@
+{
+  "hero": {
+      "imageLayouts": [{
+        "sm": {
+          "path": "path-do-slike-za-mobile"
+        },
+        "lg": {
+          "path": "path-do-slike-za-dekstop"
+        }
+      }],
+    "title": "Isabella Valamar Collection Hotel",
+    "sefUrl": "/link-na-hotel",
+    "ratingCategory": {
+      "stars": [5],
+      "title": "5*"
+    },
+    "sticker": [
+      {
+        "type": "yellow",
+        "text": "New in 2023"
+      }
+    ],
+    "destination": {
+      "title": "Poreč",
+      "sefUrl": "/porec"
+    },
+    "resort": {
+      "shortTitle": "Isabella Island Resort",
+      "sefUrl": "/resort-isabella-island",
+      "ratingCategory": {
+        "stars": [4],
+        "title": "4*"
+      }
+    }
+  },
+  "pages": [
+    {
+      "title": "Overview",
+      "url": "/",
+      "isExtraItem": false
+    },
+    {
+      "title": "Book roms",
+      "url": "/",
+      "isExtraItem": false
+    },
+    {
+      "title": "Accomodation",
+      "url": "/",
+      "isExtraItem": true
+    },
+    {
+      "title": "Location & Info",
+      "url": "/",
+      "isExtraItem": true
+    },
+    {
+      "title": "Beach, Pool & Wellness",
+      "url": "/",
+      "isExtraItem": true
+    },
+    {
+      "title": "Sports & Entertainment",
+      "url": "/",
+      "isExtraItem": true
+    },
+    {
+      "title": "Family",
+      "url": "/",
+      "isExtraItem": true
+    },
+    {
+      "title": "Restaurants & Bars",
+      "url": "/",
+      "isExtraItem": true
+    }
+  ],
+  "intro": {
+    "title": "A fun-filled family holiday",
+    "description": "Escape the hustle and bustle of everyday life in this exclusive resort on an island without any traffic. Surround yourself with lush Mediterranean greenery, choice of beaches and spectacular views of the sea.",
+    "expandedDescription": "Sve što ide u READ MORE lorem ipsum",
+    "tripAdvisor": "ikona-trip-advisor.svg",
+    "logo": "valamar-collection-logo.svg",
+    "button": {
+      "icon": "ui-icon-map.svg",
+      "text": "See resort map",
+      "media": "neki.pdf"
+    },
+    "usps": [
+      {
+        "icon": "ui-icon",
+        "text": "Wide range of family rooms and suites for 4 to 6 people"
+      },
+      {
+        "icon": "ui-icon",
+        "text": "Sandy Val Maro Family Beach"
+      },
+      {
+        "icon": "ui-icon",
+        "text": "Seaside location in the exclusive Island Resort"
+      },
+      {
+        "icon": "ui-icon",
+        "text": "Various dining options and Dine Around Service"
+      }
+    ]
+  },
+  "imageLayouts": [
+    {
+      "sm": {
+        "path": "path-do-slike-za-mobile-1",
+      },
+      "lg": {
+        "path": "path-do-slike-za-dekstop-1"
+      },
+      "altText": "Val Maro sandy family beach"
+    },
+    {
+      "sm": {
+        "path": "path-do-slike-za-mobile-2"
+      },
+      "lg": {
+        "path": "path-do-slike-za-dekstop-2"
+      },
+      "altText": "Val Maro sandy family beach"
+    },
+    {
+      "sm": {
+        "path": "path-do-slike-za-mobile-3"
+      },
+      "lg": {
+        "path": "path-do-slike-za-dekstop-3"
+      },
+      "altText": "Val Maro sandy family beach"
+    },
+  ],
+}
